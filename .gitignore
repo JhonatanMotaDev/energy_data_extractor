@@ -1,0 +1,15 @@
+# Dados extraídos (gerados pelo script)
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
